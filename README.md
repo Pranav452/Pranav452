@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pranav452
 - 👀 I’m interested in being a pilot
-- 🌱 I’m currently learning on how to become a pilot without any money
+- 🌱 I’m currently learning on how to become a pilot 
 - 💞️ I’m looking to collaborate on people who would donate towards me being a pilot
 - 📫 How to reach me call me 8591257188
 - 😄 Pronouns: he/him
