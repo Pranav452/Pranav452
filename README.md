@@ -1,5 +1,5 @@
 # 
-# Hello, I'm Pranav Nair a Professional  VibeCoder 👋<br><br>## About Me<br>🚀 Passionate developer with a love for 10's<br>🎓  To Be an Pilot<br>💼 Currently working on Acquiring 10's<br>🌱 Always learning and exploring new AI<br>🤝 NOT Open to collaborating on interesting projects<br>
+# Hello, I'm Pranav Nair <br><br>## About Me<br>🚀 Passionate developer with a love for 10's<br>🎓  To Be an Pilot<br>💼 Currently working on Acquiring 10's<br>🌱 Always learning and exploring new AI<br>🤝 NOT Open to collaborating on interesting projects<br>
 
 
 # 💻 Tech Stack:
