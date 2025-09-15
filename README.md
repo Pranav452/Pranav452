@@ -5,7 +5,7 @@ Hello, I’m Pranav Nair
 
 I’m a Computer Engineering graduate with hands-on experience in front-end development, AI-driven applications, and scalable web systems. Over the last few years, I’ve worked on diverse projects ranging from AI-powered productivity tools to full-stack web platforms, gaining strong skills in building practical and production-ready applications.
 
-Beyond tech, I’m deeply passionate about aviation and aspire to become a fighter pilot in the Indian Air Force, combining my love for technology with discipline and ambition.
+Beyond tech, I’m deeply passionate about aviation and aspire to become one, combining my love for technology with discipline and ambition.
 
 Currently, I’m:
 	•	🚀 Building AI-integrated tools and collaborative platforms.
