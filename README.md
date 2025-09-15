@@ -1,5 +1,27 @@
 # 
-# Hello, I'm Pranav Nair <br><br>## About Me<br>🚀 Passionate developer with a love for 10's<br>🎓  To Be an Pilot<br>💼 Currently working on Acquiring 10's<br>🌱 Always learning and exploring new AI<br>🤝 NOT Open to collaborating on interesting projects<br>
+Hello, I’m Pranav Nair
+
+👨‍💻 About Me
+
+I’m a Computer Engineering graduate with hands-on experience in front-end development, AI-driven applications, and scalable web systems. Over the last few years, I’ve worked on diverse projects ranging from AI-powered productivity tools to full-stack web platforms, gaining strong skills in building practical and production-ready applications.
+
+Beyond tech, I’m deeply passionate about aviation and aspire to become a fighter pilot in the Indian Air Force, combining my love for technology with discipline and ambition.
+
+Currently, I’m:
+	•	🚀 Building AI-integrated tools and collaborative platforms.
+	•	💼 Working as a Front-End Developer Intern at Scogo Networks.
+	•	🌱 Exploring deep learning, AI integration, and system design.
+	•	🎯 Always pushing toward new challenges while staying grounded in fundamentals.
+
+⸻
+
+💻 Tech Stack
+
+I work across a wide range of tools and technologies:
+	•	Languages & Frameworks: TypeScript, Python, React, Next.js, Node.js
+	•	Databases: PostgreSQL, Supabase, MySQL, MongoDB, Neo4j, Redis
+	•	Other Tools: Prisma, Vercel, GitHub Pages, Bun, NPM
+
 
 
 # 💻 Tech Stack:
