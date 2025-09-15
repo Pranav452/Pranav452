@@ -10,11 +10,11 @@ I also have a strong academic interest — currently **exploring cutting-edge AI
 ---
 
 ### 🚀 Currently, I’m:  
-- Building **AI-integrated tools** and collaborative platforms.  
-- Working as a **Front-End Developer Intern at Scogo Networks**.  
+- Building **AI-integrated tools** and collaborative platforms.   
 - Exploring **deep learning, AI integration, and system design**.  
 - Collecting and studying **research papers in AI/ML**.  
-- Always pushing toward **new challenges** while staying grounded in fundamentals.  
+- Always pushing toward **new challenges** while staying grounded in fundamentals.
+- Worked as a **Front-End Developer at Scogo Networks**.   
 
 ---
 
@@ -31,8 +31,7 @@ I work across a wide range of tools and technologies:
 
 # ⚡ Tech Badges  
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
